@@ -91,16 +91,20 @@ client-manager/
 ## Screenshots
 
 ### Dashboard
-(Add Screenshot Here)
+
+![Dashboard](screenshots/dashboard.png)
 
 ### Client Management
-(Add Screenshot Here)
+
+![Clients](screenshots/clients.png)
 
 ### Project Management
-(Add Screenshot Here)
 
-### Reports Section
-(Add Screenshot Here)
+![Projects](screenshots/projects.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
 
 ---
 
